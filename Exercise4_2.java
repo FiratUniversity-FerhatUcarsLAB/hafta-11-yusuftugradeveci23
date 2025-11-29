@@ -28,3 +28,6 @@ public static void zippo(String quince,int flag){//3 //11
 //rattle
 //pingzoop
 //boo-wa-ha-ha
+
+//baffle metodu ilk ¸cağrıldığında blimp parametresinin değeri nedir?  CEVAP:rattle
+//Hangi satırlar birden fazla kez ¸calışmıştır? Satır numaralarını listeleyin CEVAP:17ve18
